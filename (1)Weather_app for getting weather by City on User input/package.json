@@ -1,0 +1,15 @@
+{
+  "name": "weather-website",
+  "version": "1.0.0",
+  "description": "This will help us to get weather on the basis of location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satwik Suman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
